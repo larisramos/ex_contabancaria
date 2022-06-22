@@ -1,8 +1,8 @@
 class Conta:
 	
     cliente = 'Larissa Ramos'
-    agencia = '0012'
-    numero_conta = '1994-6'
+    agencia = '0001'
+    numero_conta = '0001-1'
     saldo = 0
 
     def depositar(self, valor):	
